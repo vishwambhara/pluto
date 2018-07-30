@@ -1,0 +1,70 @@
+<configuration>
+
+    <conversionRule conversionWord="coloredLevel" converterClass="play.api.Logger$ColoredLevel"/>
+
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${application.home}/logs/application.log</file>
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss.SSS, Asia/Calcutta} - [%level] - from %logger in %thread %n%message%n%xException%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--   OR  for rolling file ...
+    <appender name="ROLLING-FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+       <file>${application.home}/logs/application.log</file>
+       <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+
+           <fileNamePattern>${application.home}/logs/application.%d{yyyy-MM-dd, Asia/Calcutta}.log</fileNamePattern>
+           <maxHistory>30</maxHistory>
+       </rollingPolicy>
+
+       <encoder>
+           <pattern>%date{yyyy-MM-dd HH:mm:ss.SSS, Asia/Calcutta} - [%level] - from %logger in %thread %n%message%n%xException%n</pattern>
+       </encoder>
+   </appender>
+   -->
+
+
+    <appender name="EXCEPTION-FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${application.home}/logs/exception.log</file>
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss.SSS, Asia/Calcutta} - [%level] - from %logger in %thread %n%message%n%xException%n</pattern>
+        </encoder>
+    </appender>
+
+
+
+
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss.SSS, Asia/Calcutta} - %coloredLevel %logger{15} - %message%n%xException{5}</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="SMILE-FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${application.home}/logs/smile.log</file>
+        <encoder>
+            <pattern>%date{yyyy-MM-dd HH:mm:ss.SSS, Asia/Calcutta} - in %thread %n%message%n%xException%n</pattern>
+        </encoder>
+    </appender>
+
+
+    <logger name="play" level="INFO"/>
+    <logger name="application" level="INFO"/>
+
+    <logger name="exception" level="ERROR" additivity="false">
+        <appender-ref ref="EXCEPTION-FILE"/>
+    </logger>
+
+    <logger name="smile" level="INFO" additivity="false">
+        <appender-ref ref="SMILE-FILE"/>
+        <appender-ref ref="STDOUT"/>
+    </logger>
+
+    <root level="ERROR">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>

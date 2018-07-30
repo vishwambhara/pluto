@@ -1,0 +1,58 @@
+# a counter component
+
+<template id="||name_lc||">
+   <div>
+     <div class="form-group">
+        <label class="col-sm-2 control-label">||name|| Counter</label>
+
+          Clicked {{counter}} times.
+
+       <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-primary" @click="clickMe">Click</button>
+        </div>
+    </div>
+
+    <hr/>
+    <h5>Counter+10 (Computed) = {{counterPlus10}} </h5>
+  </div>
+</template>
+
+<script>
+||moduleName||.Components.||name|| = Vue.extend({
+    template: "#||name_lc||",
+
+    data: function() {
+        return {
+            counter: 0
+        }
+    },
+
+    computed: {
+      counterPlus10 : function() {
+          return this.counter + 10;
+      }
+      //,
+      //someStateData : function() {
+      //   return store.state.someStateData
+      // }
+    },
+
+    mounted : function() {
+           this.counter = 100;
+    },
+
+    destroyed : function() {
+           console.log("destroyed callback");
+    },
+
+    methods: {
+
+       clickMe() {
+            this.counter ++;
+            //||moduleName||.XXXActions.sample(store)
+        }
+    }
+
+});
+</script>
+

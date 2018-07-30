@@ -1,0 +1,1015 @@
+Hello, World!
+
+The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.
+
+Seek simplicity and distrust it.
+
+Rightness of limitation is essential for growth of reality.  Unlimited possibility and abstract creativity can procure nothing
+
+The chief danger to philosophy is narrowness in the selection of evidence.
+
+Error is the price we pay for progress.
+
+The art of progress is to preserve order amid change, and to preserve change amid order.
+
+There are no whole truths; all truths are half-truths. It is trying to treat them as whole truths that plays the devil.
+
+Ninety percent of our lives is governed by emotion.
+
+We think in generalities, but we live in detail.
+
+Set out to correct the worlds wrong and you will almost certainly wind up adding to them.
+
+The more advanced the mind, the greater the need for play.
+
+A good traveler has no fixed plans, and is not intent on arriving.
+
+By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.
+
+The psychological profiling [of a programmer] is mostly the ability to shift levels of abstraction, from low level to high level. To see something in the small and to see something in the large.
+
+The contents of a message are always from the past! They are never "now".
+
+if you are arguing, you are losing.
+
+Debugging is like being the detective in a crime movie where you are also the murderer.
+
+If you put a million monkeys on a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+
+A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+
+Without great solitude, no serious work is possible.
+
+You’ve got to start with the customer experience and work back towards the technology.
+
+If you cannot solve a problem without programming, you cannot solve a problem with programming.
+
+Scientists investigate that which already is; Engineers create that which has never been.
+
+We should all share the excitement of discovery without vain attempts to claim priority.
+
+History teaches us that history teaches nothing.
+
+Everybody loves change except for the "change" part.
+
+Freedom at one level leads to restriction to another level.
+
+A proximate cause is an event which is closest to, or immediately responsible for causing, some observed result. This exists in contrast to a higher-level ultimate cause (or distal cause) which is usually thought of as the ‘real’ reason something occurred.
+
+Never attribute to malice that which is adequately explained by carelessness. - Hanlon’s Razor
+
+We are all a product of our own experiences.
+
+I like coffee because it gives me the illusion that I might be awake.
+
+improv: smile, play, let yourself fail, listen, say yes, say and, play the game, relax and have fun.
+
+When they score the winning point — you're seeing them in their moment of glory. What you don't see is the thousands of hours of preparation. You don't see the self doubt, the lost sleep, the lonely nights spent working. You don't see the moment they started. The moment they were just like you, wondering how they could ever be good.
+
+In light of knowledge attained, the happy achievement seems almost a matter of course, and any intelligent student can grasp it without too much trouble. But the years of anxious searching in the dark, with their intense longing, their alterations of confidence and exhaustion and the final emergence into the light -- only those who have experienced it can understand it.
+
+Too many people spend money they haven't earned, to buy things they don't want, to impress people they don't like.
+
+In conflict, as in magic, the real action is not where people are looking.
+
+Self-betrayal corrupts everything. Even the value we place on things.
+
+Our need for justification blinds us to all kinds of possibilities. Even the obvious ones.
+
+One day I will find the right words and they will be simple.
+
+It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. That is how winning is done.
+
+If you dont have time to do it right, when will you have time to do it over ?
+
+The best ideas come as jokes. Make your thinking as funny as possible.
+
+If you don't have time to read, you don't have the time (or the tools) to write. Simple as that.
+
+The best theory is inspired by practice; the best practice is inspired by theory.
+
+Be careful about reading health books. You may die of a misprint.
+
+Seek simplicity and distrust it.
+
+The two most important days in your life are the day you are born and the day you find out why.
+
+The wisest man I ever knew taught me something I never forgot. And although I never forgot it, I never quite memorized it either. So what I'm left with is the memory of having learned something very wise that I can't quite remember. 
+
+Live simply, so others can simply live...
+
+Life is like riding a bicycle. To keep your balance you must keep moving.
+
+Being busy can make you rich, but being rich makes you feel busier still.
+
+Everybody has a plan until they get punched in the mouth.
+
+Beauty is not caused. It is. 
+
+People overvalue their knowledge and undervalue the probability of their being wrong.
+
+Your mind is software. Program it. Your body is a shell. Change it. Death is a disease. Cure it. Extinction is approaching. Fight it.
+
+When it is not necessary to change, it is necessary not to change.
+
+The most dangerous thought you can have as a creative person is to think you know what you're doing.
+
+There is nothing individual about self.
+
+It is no measure of health to be well adjusted to a profoundly sick society.
+
+Constraint is a driver of creativity.
+
+No man can cross the same river twice.
+
+Don't take your feelings seriously.
+
+It is never wrong to do the right thing.
+
+There is a becoming of continuity but no continuity of becoming.
+
+The best things in life aren't things.
+
+Perception is a funneling process.
+
+I know that I know nothing.
+
+I cannot teach anybody anything, I can only make them think.
+
+True knowledge exists in knowing that you know nothing.
+
+Beware the barrenness of a busy life.
+
+The greatest trick the devil ever pulled was convincing the world he did not exist.
+
+Early to bed and early to rise -- till you get enough money to do otherwise.
+
+The gap between creation and perception - there lies your chance of freedom.
+
+The world can be amazing when you are slightly strange.
+
+Everything in life have the potential to be funny.
+
+If nothing goes right ..., go left.
+
+This sentence is false.
+
+Distrust your feeling.
+
+Sarcasm is the lowest form of wit.
+
+In the world of the self-driving car, software can’t be an afterthought.
+
+Computing is fundamentally invisible. When your tires are flat, you look at your tires, they are flat. When your software is broken, you look at your software, you see nothing.
+
+Silence is one of the hardest arguments to refute.
+
+Calories : tiny creatures that live in the closet and sew clothes a little bit every night.
+
+The great difficulty of philosophy is the failure of language.
+
+When you are happy, you enjoy the music, when you are sad, you understand the lyrics.
+
+You are beautiful, talented, and simply the best at being you.
+
+When life hands you lemons, make grape juice.
+
+How much can you do without?
+
+Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time.
+
+Intelligence is to realize that activities of thoughts are not intelligence.
+
+I wish everybody could get rich and famous and do everything they ever dreamed of, so they would know that's not the answer.
+
+Without great solitude, no serious work is possible.
+
+What is not surrounded by uncertainty cannot be the truth.
+
+The contents of a message are always from the past! They are never “now”.
+
+Current state is a left fold of past behaviors.
+
+Just there are odors that dog can smell and we cannot, as well as sounds that dog can hear and we cannot,  so too there are wavelengths of light we cannot see and flavors we cannot taste? Why then, given our brain wired the way they are, closes to the remark, "Perhaps there are thoughts we cannot think?" surprises you?
+
+Evolution, so far, may possibly have blocked us from being able to think in some directions; there could be some unthinkable thoughts.
+
+It is bad luck to be superstitious.
+
+We must believe in luck. For how else can we explain the success of those we don't like.
+
+There are two kinds of light -- the glow that illuminates, and the glare -- that obscures.
+
+I like you. You remind me of myself when I was young and stupid.
+
+You never want a serious crisis to go waste.
+
+My life has been filled with terrible misfortune most of which never happened.
+
+It’s much easier to abstain than to moderate.
+
+The biggest difference between time and space is that you can't reuse time.
+
+I have been on a diet for two weeks and all I have lost is two weeks.
+
+Monotony collapses time; novelty unfolds it.
+
+"Why do you drink so much?" --- "I drink to forget." "Forget what?" --- "I don't know. I forgot that a long time ago."
+
+Any sufficiently advanced bug is indistinguishable from a feature.
+
+Progress isn't made by early risers. It's made by lazy men trying to find easier ways to do something.
+
+Capital punishment is as fundamentally wrong as a cure for crime as charity is wrong as a cure for poverty.
+
+The secret of managing is to keep the guys who hate you away from the guys who are undecided.
+
+Never argue with an idiot. They pull you down to their level, then beat you with experience.
+
+A problem exists only when the mind desires to get somewhere, to achieve, to become something.
+
+The hard part about being a bartender is figuring out who is drunk and who is just stupid.
+
+In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don't have the first, the other two will kill you.
+
+Acting is a nice childish profession - pretending you're someone else and at the same time selling yourself.
+
+Words do not express thoughts very well. They always become a little different immediately after they are expressed, a little distorted, a little foolish.
+
+I Can Think, I Can Wait, I Can Fast.
+
+Learn what is to be taken seriously and laugh at the rest.
+
+Everything was better back when everything was worse.
+
+What the caterpillar calls the end of the world, the master calls a butterfly.
+
+What are the odds of finding a bachelor mathematician? The odds are good, but the goods are odd.
+
+Always love your enemies -- nothing annoys them so much.
+
+Write stupid code on smart data.
+
+As soon as you realise that most people dont know what they are doing, the world makes a lot of sense...
+
+Everything should be built top-down, except the first time.
+
+One man's constant is another man's variable. 
+
+Brevity is a double-edged sword. Used correctly, it can enhance clarity; used badly, it can serve to obscure.
+
+It is better to have 100 functions operate on one data structure than 10 functions on 10 data structures. 
+
+A language that doesn't affect the way you think about programming, is not worth knowing. 
+
+In programming, everything we do is a special case of something more general -- and often we know it too quickly. 
+
+There are two ways to write error-free programs; only the third one works.
+
+Real programmers don’t document. If it was hard to write, it should be hard to understand.
+
+One computer is a problem. A computer network is a large problem. The internet is the world’s largest problem.
+
+Software developers have more definitions of Done than Eskimos have definitions of snow.
+
+Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+
+Start with why.
+
+Functions delay binding; data structures induce binding. Moral: Structure data late in the programming process.
+
+Symmetry is a complexity-reducing concept; seek it everywhere.
+
+Optimization hinders evolution.
+
+If you think good architecture is expensive, try bad architecture.
+
+No matter what the problem is, it’s always a people problem.
+
+If you don’t actively attack the risks, the risks will actively attack you.
+
+The hardest part of design … is keeping features out.
+
+Design without code is just a daydream. Code without design is a nightmare.
+
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it. 
+
+Simplicity does not precede complexity, but follows it. 
+
+If I have not seen as far as others, it is because giants were standing on my shoulders.
+
+Anything which uses science as part of its name isn't: political science, creation science, computer science.
+
+Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
+
+In zero gravity, there is no up or down.
+
+All our knowledge has its origin in our perceptions.
+
+Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.
+
+The best thing about a boolean is even if you are wrong, you are only off by a bit. 
+
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight.
+
+What if life is the second chance?
+
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. 
+
+One man’s crappy software is another man’s full time job. 
+
+A good programmer is someone who always looks both ways before crossing a one-way street. 
+
+If you think education is expensive try Ignorance.
+
+Maturity is not a factor of the games we play but the occasions we play them!
+
+It is much more rewarding to do more with less.
+
+Inside every small problem is a big one trying to get government funding.
+
+The future has arrived; it's just not evenly distributed.
+
+You can judge the quality of your life by how often you notice the enjoyment of the little things.
+
+After the game, the king and the pawn go in the same box.
+
+Has it ever occurred to you that God might be a committee?
+
+The only meaning in life is what we all give it.
+
+Have a clue. They're cheap.  All you have to do is pay ttention.
+
+A picture is worth a thousand words. It just takes up more bandwidth.
+
+Good is never good enough when you dream of being the best.
+
+Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened.
+
+Outside of their particular area of expertise scientists are just as dumb as the next person.
+
+A bad reputation is hard to shake, a good reputation is hard to maintain
+
+Heaven must be running unix, how else do u explain so much uptime?
+
+Bombay is 250ms from New York in the new world order.
+
+At the source of every error which is blamed on the computer you will find at least two human errors, including the error of blaming it on the computer.
+
+Once you stop dismissing something as unattainable, then you start working on its development.
+
+If you cannot solve a problem without programming, you cannot solve a problem with programming.
+
+Heaven is an American salary, a Chinese cook, an English house, and a Japanese wife. Hell is defined as having a Chinese salary, an English cook, a Japanese house, and an American wife.
+
+You keep on learning and learning, and pretty soon you learn something no one has learned before.
+
+Save the earth. It's the only planet with chocolate!
+
+Violence is the last refuge of the incompetent. If violence is the last refuge of the incompetent, religion is the second last.
+
+Questions can be like a lever you use to pry open the stuck lid on a paint can. . . . If we have a short lever, we can only just crack open the lid on the can. But if we have a longer lever, or a more dynamic question, we can open that can up much wider and really stir things up. . . . If the right question is applied, and it digs deep enough, then we can stir up all the creative solutions.
+
+Mens sana in corpore sano - A sound mind in a sound body.
+
+You are comparing your inside with other people's outside.
+
+Inside every old man is an eight year old wondering bewilderedly what just happened to him.
+
+The best writing is rewriting.
+
+We're even wrong about which mistakes we're making.
+
+The computing scientist’s main challenge is not to get confused by the complexities of his own making.
+
+Always and inevitably everyone underestimates the number of stupid individuals in circulation.
+
+Politics is not the art of the possible. It consists in choosing between the disastrous and the unpalatable.
+
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.
+
+However little television you watch, watch less.
+
+Object-oriented design is the roman numerals of computing.
+
+A stupid person is a person who causes losses to another person or to a group of persons while himself deriving no gain and even possibly incurring losses.
+
+Writing is nature's way of letting you know how sloppy your thinking is.
+
+Teaching is nature's way of letting you know how sloppy your understanding is.
+
+If you are thinking without writing, you only think you are thinking.
+
+Non-stupid people always underestimate the damaging power of stupid individuals.
+
+The probability that a certain person be stupid is independent of any other characteristic of that person.
+
+The phrase "object-oriented” means a lot of things. Half are obvious, and the other half are mistakes.
+
+Focusing is about saying no.
+
+A well-spent day brings happy sleep.
+
+In a gold rush it's the people who sell the spades who make the money first
+
+A thorough software professional is one who when his wife yells at him "goto hell", worries more about the goto.
+
+Software development does not have economies of scale.
+
+If you have four groups working on a compiler, you will get a 4-pass compiler.
+
+All code is technical debt; some code just has a higher interest rate.
+
+For every activity, there is an appropriate scale.
+
+Confidence is the feeling you have before you understand the situation.
+
+The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.
+
+This is the monstrosity in love, lady, that the will is infinite and the execution confined; that the desire is boundless and the act a slave to limit.
+
+Hardware is the part of a computer system that can be kicked and software is the part that can only be screamed at.
+
+Don't put off for tomorrow what you can do today, because if you enjoy it today you can do it again tomorrow.
+
+Listening is the willingness to change.
+
+Laws are like cobwebs; strong enough to detain only the weak, and too weak to hold the strong
+
+A deep, unwavering belief is a sure sign you're missing something...
+
+Specification - help us think clearly. Clear thinking is important and hard. We need all the help we can get. 
+
+The human foot is a masterpiece of engineering and a work of art.
+
+Stupid people surround themselves with smart people. Smart people surround themselves with smart people who disagree with them.
+
+Where there is shouting, there is no true knowledge.
+
+Unfamiliarity turns people off.
+
+life, n.: A whim of several billion cells to be you for a while.
+
+Analogy is a poor tool for reasoning, but a good analogy can be very effective
+in developing intuition.
+
+Others inspire us, information feeds us, practice improves our performance, but we need quiet time to figure things out, to emerge with new discoveries, to unearth original answers.
+
+Politics is the struggle between those who want to make their country the best in the world, and those who believe it already is.  Each group calls the other unpatriotic.
+
+We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action.
+
+Even if you're on the right track, you'll get run over if you just sit there.
+
+Find the simplest model that is not a lie is the key to better software design.
+
+The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.
+
+He that would perfect his work must first sharpen his tools.
+
+The bad news is that time flies. The good news is you’re the pilot.
+
+No battle was ever won according to a plan, but no battle was ever won without one.
+
+A programming language that doesn't change the way you think about programming is not worth knowing.
+
+Life well spent is long.
+
+I wrote my Ph.D. Thesis on Garbage Collection! 
+
+Alternately, you can create an empty Promise and obtain its corresponding Future. (Akka documentation)
+
+Debugging is anticipated with distaste, performed with reluctance, and bragged about forever.
+
+Don't change the man. Change his environment.
+
+Recursion is the root of computation since it trades description for time.
+
+Everything is vague to a degree you do not realize till you have tried to make it precise.
+
+Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
+
+Be kind, for everyone you meet is fighting a hard battle.
+
+What's computer program - Any piece of code it makes sense to think about by itself.
+
+As a well-spent day brings happy sleep, so a life well spent brings happy death.
+
+Just as food eaten without appetite is a tedious nourishment, so does study without zeal damage the memory by not assimilating what it absorbs.
+
+The greatest deception men suffer is from their own opinions.
+
+Omit needless words.
+
+I learned very early the difference between knowing the name of something and knowing something.
+
+If you tell me, I will listen. If you show me, I will see. But if you let me experience, I will learn.
+
+To teach effectively a teacher must develop a feeling for his subject; he cannot make his students sense its vitality if he does not sense it himself. He cannot share his enthusiasm when he has no enthusiasm to share. How he makes his point may be as important as the point he makes; he must personally feel it to be important.
+
+Education is the kindling of a flame, not the filling of a vessel.
+
+Do not seek to follow in the footsteps of the wise. Seek what they sought.
+
+Nothing strengthens authority so much as silence.
+
+The purpose of thinking is to stop thinking.
+
+I have six locks on my door all in a row. When I go out, I lock every other one. I figure no matter how long somebody stands there picking the locks, they are always locking three.
+
+3 laws : code must work; code must be simple; code can be clever but not at the expense of first two laws
+
+The ability to master complexity is not the same as the ability to extract simplicity.
+
+There are decades when nothing happens... And there are weeks when decades happen.
+
+Imagination is the only weapon in the war against reality.
+
+Stop agonizing about what’s not working. Instead, ask yourself, “What’s working well, right now, and how can I do more of it?”
+
+When the complexity of the problems humans must solve exceeds the capability of our brains, we turn to beliefs.
+
+"When I use a word," Humpty Dumpty said, in a rather scornful tone, "it means just what I choose it to mean - neither more nor less."
+
+We meet each other and get lost in the smoke. Where is the flame?
+
+Without knowing what you are, there is no basis for right action.
+
+You can't tell which way the train went by looking at the track.
+
+Time and space are modes by which we think, and not conditions in which we live.
+
+Words are very unnecessary. They can only do harm. Enjoy the silence.
+
+Facts are immutable. Knowledge is cumulative.
+
+The first principle of successful scalability is to batter the consistency mechanisms down to a minimum.
+
+Do not think about yourself, but be aware of the thought, emotion, or action that makes you think of yourself.
+
+If you begin to understand what you are without trying to change it, then what you are undergoes a transformation.
+
+The observer is the observed.
+
+If you can't manage your anger, you are as helpless as a city without walls waiting to be attacked.
+
+A mediocre person tells. A good person explains. A superior person demonstrates. A great person inspires others to see for themselves.
+
+Take care of your body. It's the only place you have to live.
+
+Immaturity lies only in total ignorance of self.
+
+Begin where you are. Read every word, every phrase, every paragraph of the mind, as it operates through thought.
+
+Isn't it strange? The same people who laugh at gypsy fortunetellers take economists seriously.
+
+If everything is coming your way... you're probably in the wrong lane.
+
+A clear conscience is usually the sign of a bad memory.
+
+Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+
+The surest sign that intelligent life exists elsewhere in the universe is that it has never tried to contact us.
+
+There is only one journey ... and that is going inside yourself.
+
+Think in promises, not obligations - Promise theory.
+
+A committee is a group of men who individually can do nothing, but collectively can meet and decide that nothing can be done.
+
+The next 30 days are going to pass whether you like it or not, so why not think about something you have always wanted to try and give it a shot for the next 30 days?
+
+We don't choose between experiences, we choose between memories of experiences. Even when we think about the future, we don’t think of our future normally as experiences. We think of our future as anticipated memories.
+
+The interesting thing is: if you do it for love, the money comes anyway.
+
+you don't have to learn to make your own shoes before you can start experimenting with fashion.
+
+The power of accurate observation is often called cynicism by those who have not got it.
+
+Programming is the art of telling another human being what one wants the computer to do.
+
+Insanity in individuals is something rare - but in groups, parties, nations and epochs, it is the rule.
+
+Night time is really the best time to work. All the ideas are there to be yours because everyone else is asleep.
+
+It takes considerable knowledge just to realize the extent of your own ignorance.
+
+The world is a tragedy to those who feel, but a comedy to those who think.
+
+Avoid violence. Question everything. Enjoy silence.
+
+The chief cause of problems is solutions.
+
+Above all, don't fear difficult moments. The best comes from them.
+
+The greatest trick the Devil ever pulled was convincing the world he didn't exist. And like that, poof. He's gone.
+
+Everything is impossible until it's done.
+
+For every 10 people who are clipping at the branches of evil, you're lucky to find 1 who's hacking at the roots.
+
+The man who fears suffering is already suffering from what he fears.
+
+There are no whole truths: all truths are half-truths. It is trying to treat them as whole truths that plays to the devil.
+
+Sometimes the appropriate response to reality is to go insane.
+
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+
+Theory is when you know something, but it doesn't work. Practice is when something works, but you don't know why. Programmers combine theory and practice: Nothing works and they don't know why.
+
+So much complexity in software comes from trying to make one thing do two things.
+
+Java: write once, run away!
+
+Java is the most distressing thing to happen to computing since MS-DOS
+
+Java is like a variant of the game of Tetris in which none of the pieces can fill gaps created by the other pieces, so all you can do is pile them up endlessly.
+
+Before software can be reusable it first has to be usable.
+
+The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+
+If you think you’re too small to be effective, you have never been in bed with a mosquito.
+
+Catch a man a fish, and you can sell it to him. Teach a man to fish, and you ruin a wonderful business opportunity.
+
+Time is free, but it's priceless. You can't own it, but you can use it. You can't keep it, but you can spend it. Once you've lost it, you can never get it back.
+
+Any fool can tell the truth, but it requires a man of some sense to know how to lie well.
+
+The cardinal rule of writing unmaintainable code is to specify each fact in as many places as possible and in as many ways as possible.
+
+Philosophy is a battle against the bewitchment of our intelligence by means of language.
+
+If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.
+
+Freedom from the desire for an answer is essential to the understanding of a problem.
+
+The constant assertion of belief is an indication of fear.
+
+Ever notice how 'What the hell' is always the right answer?
+
+Most communication resembles a Ping-Pong game in which people are merely preparing to slam their next point across; but pausing to understand different points of view and associated feelings can turn apparent opponents into true members of the same team.
+
+Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.
+
+If the world were merely seductive, that would be easy. If it were merely challenging, that would be no problem.
+But I arise in the morning torn between a desire to improve the world and a desire to enjoy the world. This makes it hard to plan the day.
+
+Reality is merely an illusion, albeit a very persistent one.
+
+There is a mystery that passes all understandings.
+
+Common sense is the collection of prejudices acquired by age eighteen.
+
+The most incomprehensible thing about the world is that it is comprehensible.
+
+The important thing is not to stop questioning. Curiosity has its own reason for existing.
+
+If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.
+
+As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality.
+
+Not everything that counts can be counted, and not everything that can be counted counts.
+
+A perfection of means, and confusion of aims, seems to be our main problem.
+
+It is a miracle that curiosity survives formal education.
+
+No matter what you feel, it is always about you.
+
+Not to brag but I don't even alcohol to make really bad decisions.
+
+When I'm in the car and a sad song comes on the radio, I stare out the window and act like I'm in a movie.
+
+It's not that I'm so smart, it's just that I stay with problems longer.
+
+Memory is deceptive because it is colored by today's events.
+
+Nationalism is an infantile disease. It is the measles of mankind.
+
+The difference between stupidity and genius is that genius has its limits.
+
+Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.
+
+We act as though comfort and luxury were the chief requirements of life. All that we need to make us happy is something to be enthusiastic about.
+
+Before you criticize someone, walk a mile in his shoes. That way, if he gets angry, he'll be a mile away, and barefoot.
+
+To let a fool kiss you is stupid, to let a kiss fool you is worse.
+
+Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?
+
+If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?
+
+One ought to whimsically delete files every once in a while, just to show the computer who's boss.
+
+Real programmers don't comment their code. If it was hard to write, it should be hard to understand.
+
+People are where they are because that's exactly where they really want to be whether they'll admit that or not.
+
+It is amazing how much people can get done if they do not worry about who gets the credit.
+
+Fear is just another four-letter word.
+
+A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+
+I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+
+It's not the daily increase but daily decrease. Hack away at the unessential.
+
+Always end the name of your child with a vowel, so that when you yell the name will carry.
+
+For the past 33 years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something.
+
+Accept that some days you're the pigeon and some days you're the statue.
+
+Politicians and diapers should both be changed regularly and for the same reason.
+
+If quitters never win, and winners never quit, what fool came up with, "Quit while you're ahead"?
+
+There is a seven letter word in the English language that contains ten words without rearranging any of its letters, "therein": the, there, he, in, rein, her, here, ere, therein, herein.
+
+A recent government study has finally concluded that pressing the elevator button in rapid succession does NOT cause the elevator to arrive any more quickly than simply waiting until it finally arrives.
+
+Every nonzero finite dimensional inner product space has an orthonormal basis. It makes sense, when you don't think about it.
+
+Alcohol and math don't mix. Please don't drink and derive.
+
+A dull pencil is better than a sharp mind.
+
+Don't worry if it doesn't work right. If everything did, you'd be out of a job.
+
+Math is like love -- a simple idea but it can get complicated.
+
+There are a thousand thoughts lying within a man that he does not know till he takes up a pen to write.
+
+All your fears are an illusion; they are immaterial; they do not exist.
+
+If it's the thought that counts, then I should probably be in jail.
+
+To me 'drink responsibly' means don't spill it.
+
+Not to brag but I don't even need alcohol to make really bad decisions.
+
+I miss you like an idiot misses the point.
+
+To be old and wise, you must first be young and stupid.
+
+Tell a man that the universe is made of 400 billion stars, and he'll believe you. Tell him that a bench has wet paint on it and he has to touch it.
+
+Quality is free if you are willing to pay for it.
+
+Lazy people fact #2347827309018376. You were too lazy to read that number.
+
+There is only one success - to be able to spend your life in your own way.
+
+Pleasure in the job puts perfection in the work.
+
+It is difficult to get a man to understand something when his salary depends upon his not understanding it.
+
+If at first you don't succeed; call it version 1.0
+
+My software never has bugs. It just develops random features.
+
+If you don't want to be replaced by a computer, don't act like one.
+
+Just when you think your software is idiot proof, somebody comes up with a better idiot.
+
+Software and cathedrals are much the same - first we build them, then we pray.
+
+The best thing about a boolean is even if you are wrong, you are only off by a bit.
+
+A good programmer is someone who always looks both ways before crossing a one-way street.
+
+In order to understand recursion, one must first understand recursion.
+
+Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.
+
+XML is like violence. If it doesn't solve your problem then you're not using enough of it.
+
+Hofstadter's Law: "It always takes longer than you expect, even when you take into account Hofstadter's Law."
+
+A stupid is not stupid enough unless he is proud of his stupidity.
+
+Success in almost any field depends more on energy and drive than it does on intelligence. This explains why we have so many successful stupid leaders.
+
+A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.
+
+Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+
+Man acts as though he were the shaper and master of language, while in fact language remains the master of man.
+
+All my life I thought air was free, until I bought a bag of chips.
+
+The best things in life are free. The rest are too expensive.
+
+I never made a mistake in my life. I thought I did once, but I was wrong.
+
+Yesterday I did nothing and today I'm finishing what I did yesterday.
+
+Some cause happiness wherever they go; others whenever they go.
+
+Dear Math, please grow up and solve your own problems, I'm tired of solving them for you.
+
+The world today doesn't make sense, so why should I paint pictures that do?
+
+No matter how smart you are you can never convince someone stupid that they are stupid.
+
+A person is just about as big as the things that make him angry.
+
+Anyone can become angry -- that is easy; but to be angry with the right person, to the right degree, at the right time, for the right purpose and in the right way -- that is not easy.
+
+Laughter is like a windshield wiper, it doesn't stop the rain but allows us to keep going.
+
+Laughing is one of the best exercises, it's like running inside your mind. You can do it almost anywhere and it's even better with a friend.
+
+I always try to cheer myself up by singing when I get sad. Most of the time, it turns out that my voice is worse than my problems.
+
+When my boss asked me who is the stupid one, me or him? I told him everyone knows he doesn't hire stupid people.
+
+If life is not smiling at you, give it a good tickling.
+
+Retirement is great, you get to be your own boss and tell yourself to do nothing all day.
+
+There's life without Facebook and Internet? Really? Send me the link.
+
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.
+
+I have finally learned what 'upward compatible' means.  It means we get to keep all our old mistakes.
+
+Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.
+
+Optimism is an occupational hazard of programming; feedback is the treatment.
+
+If Java had true garbage collection, most programs would delete themselves upon execution.
+
+When debugging, novices insert corrective code; experts remove defective code.
+
+It's not who you are underneath, it's what you do that defines you.
+
+You can't have great software without a great team, and most software teams behave like dysfunctional families.
+
+I don't care if it works on your machine!  We are not shipping your machine!
+
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+Don't talk unless you can improve the Silence.
+
+Programming is building theory.
+
+Programming is distributing cognition.
+
+I dedicate all this code, all my work, to my wife, Darlene, who will have to support me and our three children and the dog once it gets released into the public.
+
+Don't Forget To Be Awesome!. Enjoy the first day of the rest of your life.
+
+Truth has no tradition, it cannot be handed down.
+
+The superficial mind cannot solve this problem of sorrow because what it tries is to avoid sorrow. It escapes from the fact of sorrow through an easy and immediate response.
+
+Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.
+
+You are never given a wish without being given the power to make it true. You may have to work for it, however.
+
+Every person, all the events of your life, are there because you have drawn them there. What you choose to do with them is up to you.
+
+You're always free to change your mind and choose a different future, or a different past.
+
+There is no such thing as a problem without a gift for you in its hands. You seek problems because you need their gifts.
+
+There is no point being precise when you don't even know what you are talking about.
+
+You teach best what you need to learn most.
+
+No programmer who continues to grow need fear the future.
+
+In September of 1962, a news item was released stating that an $18 million rocket had been destroyed in early flight because "a single hyphen was left out of an instruction tape."... The nature of programming being what it is, there is no relationship between the "size" of the error and the problem it causes.
+
+When you find yourself perpetually angered by little questions in your professional life, perhaps the problem is some bigger question you answered wrong earlier.
+
+Make it work, make it right, make it fast.
+
+Programs must be written for people to read, and only incidentally for machines to execute.
+
+Design is the progressive elimination of ambiguity.
+
+A fool with a tool is still a fool.
+
+The hardest part of the software task is arriving at a complete and consistent specification, and much of the essence of building a program is in fact the debugging of the specification.
+
+Simplicity is the ultimate sophistication.
+
+Programming, when stripped of all its circumstantial irrelevancies, boils down to no more and no less than very effective thinking so as to avoid unmastered complexity, to very vigorous separation of your many different concerns.
+
+Your emotions has got nothing to do with the reality.
+
+if you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders.  Instead teach them to yearn for the vast and endless sea.
+
+A feeling of abundance is not something you acquire, it's something you tune into.
+
+Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
+There is a common misunderstanding among all the human beings that the best way to live is try to avoid pain and just try to get comfortable. If we're committed to comfort at any cost, as soon as we come up against the least edge of pain, we're going to run, we'll never know what is coming up just over the next hill.
+
+Waiting is a trap. There will always be reasons to wait. The truth is, there are only two things in life, reasons and results, and reasons simply don't count. Thirty year from now, you would realize even results didn't count either, what counted was how you spent each moment of last thirty years.
+
+The only problem with Money, is that it makes you do things you don't want to do.
+
+You must understand the whole of life, not just one little part of it. That is why you must read, that is why you must look at the skies, that is why you must sing and dance, and write poems and suffer and understand, for all that is life.
+
+From around the age of six, I had the habit of sketching from life. I became an artist, and from fifty on began producing works that won some reputation, but nothing I did before the age of seventy was worthy of attention. At seventy-three, I began to grasp the structures of birds and beasts, insects and fish, and of the way plants grow. If I go on trying, I will surely understand them still better by the time I am eighty-six, so that by ninety I will have penetrated to their essential nature. At one hundred, I may well have a positively divine understanding of them, while at one hundred and thirty, forty, or more I will have reached the stage where every dot and every stroke I paint will be alive. May Heaven, that grants long life, give me the chance to prove that this is no lie.
+
+When you see the false in the false, you see the truth in the false and that discards the false; you donot have to do a thing about it.
+
+The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures. Yet the program construct, unlike the poet's words, is real in the sense that it moves and works, producing visible outputs separate from the construct itself. It prints results, draws pictures, produces sounds, moves arms. The magic of myth and legend has come true in our time. One types the correct incantation on a keyboard, and a display screen comes to life, showing things that never were nor could be.
+
+There is Truth and there is self. Where Truth is, self is not. When self appears, Truth is not.
+
+For a convinced physicist, the distinction between past, present and future is an illusion, though a stubborn one.
+
+Never ask a writer what he is doing staring at the wall. That is when he gets his work done.
+
+When an electron vibrates, the entire universe shakes.
+
+Shuzan held out his short stuff and said: 'if you call this a short stuff, you oppose its reality. If you do not call it a short stuff, you ignore the fact. Now ,"what do you wish to call this?'"
+
+It's in New York City, at a busy intersection in Times Square. There are two dogs sitting by the curbside, watching the people hurrying by, always busy and in a rush. And one dog says to the other, 'you know, reincarnation gives me the creeps.'
+
+Influence or affluence; take your choice.
+
+Most of the time, for most of the world, no matter how hard people work at it, nothing of any significance happens. Corollary: Some of the time, in some places, significant change happens - especially when people are not working hard at it.
+
+Cucumber gets more pickled than brine gets cucumbered.
+
+Don't be rational; be reasonable.
+
+The real risk is taking no risk.
+
+It doesn’t matter how beautiful, loosely coupled, scalable, highly concurrent, non-blocking, responsive and performant your application is –– if it isn't running, then it's 100% useless. Without resilience, nothing else matters.
+
+There is a tide in the affairs of men, which, taken at the flood, leads on to fortune; omitted, all the voyage of their life is bound in shallows and in miseries.
+
+The secret of getting ahead is getting started. The secret of getting started is breaking your complex, overwhelming tasks into small, manageable tasks, and then starting on the first one.
+
+The better adapted you are, the less adaptable you tend to be.
+
+Argue for your limitations, and sure enough, they are yours.
+
+Know-how pays much less than know-when.
+
+Words are often useful, but it always pays to listen to the music(especially your own internal music).
+
+If you cannot think of three things that might go wrong with your plans, then there is something wrong with your thinking.
+
+The thought that disaster is impossible often leads to an unthinkable disaster. - The Titanic Effect.
+
+Each person sees a part of the whole and identifies the whole with that part.
+
+Less is more.
+
+Nothing in life is quite as important as you think it is while you are thinking about it. (Focus illusion)
+
+WYSIATI - What you see is all there is.
+
+When you analyze happiness, it turns out that the way you spend your time is extremely important.
+
+We are blind to our blindness.
+
+It's not your mind or my mind, it's human mind.
+
+Our comforting conviction that the world makes sense rest on a secure foundation :  our almost unlimited ability to ignore our ignorance.
+
+It may look like a crisis, but it's only the end of an illusion.
+
+The best way to lose something is to struggle to keep it.
+
+Subjective confidence is a feeling which reflects the cognitive ease of processing information to construct a coherent story in the mind; not necessary that the story is true.
+
+It tastes better when you add your own egg - the IKEA effect.
+
+Nobody but you cares about the reason you let another person down.
+
+In spite of your best efforts, some plants will die.
+
+Learn the principle, abide by the principle, and dissolve the principle.
+
+I am not actually funny; I'm just mean and people think I'm joking.
+
+I wonder if clouds ever look down on us and say "Hey look, ... that one is shaped like an idiot".
+
+Excellent is not a skill. It is an attitude.
+
+People often say that motivation does not last. Well, neither does bathing  - that's why we recommend it daily.
+
+There is no security, no comfort, but only clarity of thought which brings about the understanding of the fundamental cause of suffering, which alone will liberate man.
+
+Art is a lie that makes us realize the truth.
+
+The difference between a medicine and a poison is the dosage.
+
+The single biggest problem about communication is the illusion that it happened.
+
+I am just going to put an "out of order" sticker on my forehead and call it a day.

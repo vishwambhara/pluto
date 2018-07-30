@@ -1,0 +1,9 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           pluto.controllers.Application.index
+GET     /swagger-play-modules       pluto.controllers.Application.swaggerPlayModules
+
+#smile - dont edit anything below.

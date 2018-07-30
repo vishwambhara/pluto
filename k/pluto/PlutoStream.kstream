@@ -1,0 +1,4 @@
+module PlutoStream (PlutoStream)
+
+event CheckedIn(empId: String, checkInTime: DateTime)
+event CheckedOut(empId: String, checkOutTime: DateTime)

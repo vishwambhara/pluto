@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mongo-module SYSTEM "smile-mongo.dtd">
+<mongo-module name="PlutoMongo">
+<doc></doc>
+<code></code>
+</mongo-module>

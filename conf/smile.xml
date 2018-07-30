@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+            <!DOCTYPE smile SYSTEM "smile.dtd">
+            <smile name="Pluto" good-name="pluto" smile-version="3.4.1" model-name="pluto" release-name="Pluto" version="0.1">
+                      
+	
+		<group name="pluto">
+		<module name="PlutoMongo" display-name="PlutoMongo" import-component=""  version="SNAPSHOT" location="com.nividapps.plutomongo" type="MONGO" category="server" bundle-major="0" bundle-minor="0" >
+	</module>
+		<module name="PlutoReadMongo" display-name="PlutoReadMongo" import-component=""  version="SNAPSHOT" location="com.nividapps.plutoreadmongo" type="MONGO" category="server" bundle-major="0" bundle-minor="0" >
+	</module>
+		<module name="PlutoDomain" display-name="PlutoDomain" import-component=""  version="SNAPSHOT" location="com.nividapps.plutodomain" type="DOMAIN" category="server" bundle-major="0" bundle-minor="0" >
+	<depends-on name="PlutoMongo"/>
+	<depends-on name="PlutoStream"/>
+	</module>
+		<module name="PlutoData" display-name="PlutoData" import-component=""  version="SNAPSHOT" location="com.nividapps.plutodata" type="DATA" category="server" bundle-major="0" bundle-minor="0" >
+	</module>
+		<module name="PlutoApi" display-name="PlutoApi" import-component=""  version="SNAPSHOT" location="plutoplay" type="PLAY" category="server" bundle-major="0" bundle-minor="0" >
+	<depends-on name="PlutoData"/>
+	<depends-on name="PlutoDomain"/>
+	<depends-on name="PlutoQuery"/>
+	</module>
+		<module name="PlutoStream" display-name="PlutoStream" import-component=""  version="SNAPSHOT" location="com.nividapps.plutostream" type="STREAM" category="server" bundle-major="0" bundle-minor="0" >
+	</module>
+		<module name="PlutoQuery" display-name="PlutoQuery" import-component=""  version="SNAPSHOT" location="com.nividapps.plutoquery" type="QUERY" category="server" bundle-major="0" bundle-minor="0" >
+	<depends-on name="PlutoReadMongo"/>
+	<depends-on name="PlutoStream"/>
+	</module>
+	</group><elephant-tusk><header>project pluto version 0.1</header><module-entry name="PlutoMongo" group-name="pluto">
+ <content>mongo-module PlutoMongo at com.nividapps.plutomongo</content>
+ </module-entry>
+          
+<module-entry name="PlutoReadMongo" group-name="pluto">
+ <content>mongo-module PlutoReadMongo at com.nividapps.plutoreadmongo</content>
+ </module-entry>
+          
+<module-entry name="PlutoDomain" group-name="pluto">
+ <content>domain-module PlutoDomain(PlutoMongo, PlutoStream) at com.nividapps.plutodomain</content>
+ </module-entry>
+          
+<module-entry name="PlutoData" group-name="pluto">
+ <content>data-module PlutoData at com.nividapps.plutodata</content>
+ </module-entry>
+          
+<module-entry name="PlutoApi" group-name="pluto">
+ <content>play-module PlutoApi(PlutoData, PlutoDomain, PlutoQuery) at plutoplay</content>
+ </module-entry>
+          
+<module-entry name="PlutoStream" group-name="pluto">
+ <content>stream-module PlutoStream at com.nividapps.plutostream</content>
+ </module-entry>
+          
+<module-entry name="PlutoQuery" group-name="pluto">
+ <content>query-module PlutoQuery(PlutoReadMongo, PlutoStream) at com.nividapps.plutoquery</content>
+ </module-entry>
+          </elephant-tusk>
+</smile>

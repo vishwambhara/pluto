@@ -1,0 +1,56 @@
+module PlutoMongo (PlutoMongo)
+
+collection Employee {
+	property empId: String
+	property firstName: String
+	property lastName: String
+	property emailId: String
+	property dateOfJoining: CalendarDate
+}
+
+collection Holiday {
+	property date: CalendarDate
+	property description: String
+}
+
+//collection HolidayList {
+//	property year: Int
+//	reference listOfHolidays: Holiday*
+//}
+
+collection Attendance {
+	property empId: String
+	property checkInTime: DateTime
+	property checkOutTime: DateTime
+}
+
+//collection LeaveApplicationStatus {
+//	property status: String
+//}
+
+//collection LeaveType {
+//	property type: String
+//}
+
+collection LeaveApplication {
+	property empId: String
+	property appliedTo: String
+	property leaveType: String 
+	property fromDate: CalendarDate
+	property toDate: CalendarDate
+	property halfDay: Boolean
+	property foreNoon: Boolean
+	property status: String 
+}
+
+collection OutOfOfficeWorkApplication {
+	property empId: String
+	property appliedTo: String
+	property workType: String 
+	property fromDate: CalendarDate
+	property toDate: CalendarDate
+	property halfDay: Boolean?
+	property foreNoon: Boolean?
+	property status: String
+}
+

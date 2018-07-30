@@ -1,0 +1,22 @@
+logs/
+project/project
+project/target/
+target/
+public/pluto/
+public/swagger/
+tmp/
+.idea/workspace.xml
+out/
+.classpath
+export/
+import/
+RUNNING_PID
+.settings
+.idea
+syntax: glob
+*.iml
+modules/*/*/src-gen
+.smile/private.conf
+.smile/private.env.properties
+component/*.zip
+release/*.zip

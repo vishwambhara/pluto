@@ -1,0 +1,40 @@
+module PlutoDomain (PlutoDomain)
+
+command-set[PlutoStream] Pluto {
+	
+	command checkIn {
+		input(empId: String, checkInTime: DateTime)
+		
+		pre {
+			condition employeeIdMustExist => `true` failing "Employee is not authorized"
+			condition employeeMustBeCheckedOutPreviousDay => employeeIdMustExist -> `true` failing "Employee has not checked out previous working day"
+			condition employeeMustNotBeCheckedIn => employeeIdMustExist -> `true` failing "Employee has already checked in"
+		}
+		
+		event-raised(checkedIn: CheckedIn)
+	}
+	
+	command checkOut {
+		input(empId: String, checkOutTime: DateTime)
+		
+		pre {
+			condition employeeIdMustExist => `true` failing "Employee is not authorized"
+			condition employeeMustBeCheckedInCurrentDay => employeeIdMustExist -> `true` failing "Employee has not checked out previous working day"
+			condition employeeMustNotBeCheckedOut => employeeIdMustExist -> `true` failing "Employee has already checked out"
+		}
+		
+		event-raised(checkedOut: CheckedOut)
+	}
+	
+	command applyForLeave {
+		input(empId: String, appliedTo: String, leaveType: String, fromDate: CalendarDate,
+			toDate: CalendarDate, halfDay: Boolean?, foreNoon: Boolean?, status: String)
+			
+		pre {
+			condition employeeIdMustExist => `true` failing "Employee is not authorized"
+			condition toDateMustBeAfterFromDate => `true` failing "ToDate is before FromDate"
+			condition employeeMustNotBePresent => `true` failing "Employee was present on the date of leave"
+		}
+	}
+	
+}

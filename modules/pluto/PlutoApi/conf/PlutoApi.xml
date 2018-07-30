@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE play-module SYSTEM "smile-play.dtd">
+<play-module name="PlutoApi" route="PlutoApi" custom-auth="false">
+<doc></doc>
+<code></code>
+</play-module>

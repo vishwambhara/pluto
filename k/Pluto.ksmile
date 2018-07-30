@@ -1,0 +1,13 @@
+project pluto  version 0.1
+
+section pluto {
+	
+	mongo-module PlutoMongo at com.nividapps.plutomongo
+	mongo-module PlutoReadMongo at com.nividapps.plutoreadmongo
+	domain-module PlutoDomain(PlutoMongo, PlutoStream) at com.nividapps.plutodomain
+	data-module PlutoData at com.nividapps.plutodata
+	play-module PlutoApi(PlutoData, PlutoDomain, PlutoQuery) at plutoplay
+	stream-module PlutoStream at com.nividapps.plutostream
+	query-module PlutoQuery(PlutoReadMongo, PlutoStream) at com.nividapps.plutoquery
+	
+}
